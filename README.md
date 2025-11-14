@@ -10,5 +10,5 @@ Most of what’s here is small tools, experiments, and prototypes around privacy
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="trace-white.svg">
   <source media="(prefers-color-scheme: light)" srcset="trace.svg">
-  <img alt="Raul's signature" src="trace.svg" width="400">
+  <img alt="Raul's signature" src="trace.svg" width="300">
 </picture>
